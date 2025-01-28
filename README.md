@@ -35,7 +35,6 @@ Beyond its analytical capabilities, this application fosters a vibrant community
 ---
 
 Here's a helpful video tutorial on how to perform a **download tradingview app**:
-![image]()
 
 [![TradingView App Download Tutorial](https://github.com/user-attachments/assets/976444b5-f200-43b3-9b08-af9de7c67e7d)](https://www.youtube.com/watch?v=zpLfRgUUM4M)
 
